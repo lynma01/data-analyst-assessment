@@ -13,7 +13,7 @@ Event tracking has been implemented for each onboarding step. Events are capture
   - `verify_phone_number` tracks when the user enters the verification code to verify their phone number
   - `create_account` tracks when the user has successfully created an account
   - `attempt_direct_deposit_switch` tracks when the user attempts to move their paycheck (switch direct deposit) to Clair
-  - `switch_direct_deposit` tracks when successfully moves their paycheck (switches direct deposit) to Clair
+  - `switch_direct_deposit` tracks when the user successfully moves their paycheck (switches direct deposit) to Clair
   - `take_wage_advance` tracks when the user takes a wage advance
 - `event_timestamp` specifies when the event occurred
 
