@@ -21,7 +21,7 @@ General information about each user is captured in the `users` table:
 - `user_id` unique identifier for each user
 - `partner_name` identifies the app where the worker clocks in and out 
 
-*These tables can be found in the data directory within this repo.*
+*These tables can be found in the [data directory](https://github.com/erikgregorywebb/data-analyst-assessment/tree/main/data) within this repo.*
 
 ### Your Task
 
