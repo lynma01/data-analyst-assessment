@@ -27,4 +27,8 @@ General information about each user is captured in the `users` table:
 
 **Using the tools of your choice, analyze the data to identify where drop-off is occurring during onboarding**. The Product team intends to prioritize the feature backlog based on your recommendations. There is no “right” answer; the emphasis is creativity and clearly communicating your approach and findings. Please limit time spent on the assessment to 2 hours.
 
+### Deliverables
+- 2-4 slides describing your approach, findings, and recommendations; include visuals to support your conclusions
+- A copy of the underlying analysis (e.g., Tableau workbook, Jupyter Notebook, etc.)
+
 *Note: While this dataset is structured to imitate real user activity, the event names, timestamps, user identifiers, and partner names are synthetically generated for privacy and security reasons. Given the randomness infused into the exercise, this is not an effort to outsource work to interviewing candidates, but rather, an opportunity to share a flavor of the data you’ll interact with working at Clair.*
